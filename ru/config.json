@@ -144,6 +144,11 @@
             "finished": true
           }
         ]
+      },
+      {
+        "id": 10000,
+        "name": "Настройки",
+        "children": []
       }
     ],
     "dlgLanguage": "Выберите ваш язык",
