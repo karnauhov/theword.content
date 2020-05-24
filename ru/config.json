@@ -129,7 +129,7 @@
             "id": 9001,
             "name": "Рождение свыше",
             "places": "Ключи к пониманию",
-            "finished": false
+            "finished": true
           },
           {
             "id": 9002,
