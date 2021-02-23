@@ -13,9 +13,27 @@
         "name": "7 Церквей",
         "children": [
           {
-            "id": 1300,
-            "name": "Десять заповедей",
-            "places": "Исх 20:2-17; Втор 5:6-21",
+            "id": 1001,
+            "name": "Предисловие",
+            "places": "Откр 1:1-11",
+            "finished": false
+          },
+          {
+            "id": 1101,
+            "name": "Послание 7 церквям",
+            "places": "Откр 1:12-3:22",
+            "finished": false
+          },
+          {
+            "id": 1801,
+            "name": "Новые небо и земля",
+            "places": "Откр 21:1-22:5",
+            "finished": false
+          },
+          {
+            "id": 1901,
+            "name": "Послесловие",
+            "places": "Откр 22:6-21",
             "finished": false
           }
         ]
@@ -23,98 +41,32 @@
       {
         "id": 2000,
         "name": "7 Печатей",
-        "children": [
-          {
-            "id": 2001,
-            "name": "Служитель Моисея",
-            "places": "Нав 1:1-9",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 3000,
         "name": "7 Труб",
-        "children": [
-          {
-            "id": 3001,
-            "name": "Псалом 1",
-            "places": "Пс 1",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 4000,
         "name": "Великая борьба",
-        "children": [
-          {
-            "id": 4601,
-            "name": "Даниил в плену",
-            "places": "Дан 1",
-            "finished": false
-          },
-          {
-            "id": 4602,
-            "name": "Сон об истукане",
-            "places": "Дан 2",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 5000,
         "name": "7 Чаш",
-        "children": [
-          {
-            "id": 5001,
-            "name": "Пролог",
-            "places": "Ин 1:1-18",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 6000,
         "name": "1000-летнее царство",
-        "children": [
-          {
-            "id": 6951,
-            "name": "Христос над ангелами",
-            "places": "Евр 1:1-2:18",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 7000,
         "name": "Новый Иерусалим",
-        "children": [
-          {
-            "id": 7001,
-            "name": "Предисловие",
-            "places": "Откр 1:1-11",
-            "finished": false
-          },
-          {
-            "id": 7101,
-            "name": "Послание 7 церквям",
-            "places": "Откр 1:12-3:22",
-            "finished": false
-          },
-          {
-            "id": 7801,
-            "name": "Новые небо и земля",
-            "places": "Откр 21:1-22:5",
-            "finished": false
-          },
-          {
-            "id": 7901,
-            "name": "Послесловие",
-            "places": "Откр 22:6-21",
-            "finished": false
-          }
-        ]
+        "children": []
       },
       {
         "id": 8000,
@@ -124,26 +76,7 @@
       {
         "id": 9000,
         "name": "Разные темы",
-        "children": [
-          {
-            "id": 9001,
-            "name": "Рождение свыше",
-            "places": "Ключи к пониманию",
-            "finished": true
-          },
-          {
-            "id": 9002,
-            "name": "Слово Божие",
-            "places": "Читать, понимать, исполнять",
-            "finished": true
-          },
-          {
-            "id": 9100,
-            "name": "Пасха",
-            "places": "Символы и смысл",
-            "finished": true
-          }
-        ]
+        "children": []
       },
       {
         "id": 10000,
