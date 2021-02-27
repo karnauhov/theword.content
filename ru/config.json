@@ -35,56 +35,56 @@
           },
           {
             "id": 1211,
-            "name": "Иисус Христос и 7 светильников",
+            "name": "Иисус Христос",
             "places": "Откр 1:9-20",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1281,
-            "name": "Ефесская церковь",
+            "name": "Ефес",
             "places": "Откр 2:1-7",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1351,
-            "name": "Смирнская церковь",
+            "name": "Смирна",
             "places": "Откр 2:8-11",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1421,
-            "name": "Пергамская церковь",
+            "name": "Пергам",
             "places": "Откр 2:12-17",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1491,
-            "name": "Фиатирская церковь",
+            "name": "Фиатира",
             "places": "Откр 2:18-29",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1561,
-            "name": "Сардийская церковь",
+            "name": "Сардис",
             "places": "Откр 3:1-6",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1631,
-            "name": "Филадельфийская церковь",
+            "name": "Филадельфия",
             "places": "Откр 3:7-13",
             "image": "menora.jpg",
             "finished": false
           },
           {
             "id": 1701,
-            "name": "Лаодикийская церковь",
+            "name": "Лаодикия",
             "places": "Откр 3:14-22",
             "image": "menora.jpg",
             "finished": false
