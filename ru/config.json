@@ -18,13 +18,6 @@
             "places": "Подготовка к изучению",
             "image": "menora.jpg",
             "finished": false
-          },
-          {
-            "id": 1071,
-            "name": "Вступление",
-            "places": "Откр 1:1-3",
-            "image": "menora.jpg",
-            "finished": false
           }
         ]
       }
