@@ -1,2 +1,2 @@
 # theword.content
-Content for sites https://theword.pw and https://the-main-word.web.app
+Content for sites https://theword.pw or https://the-main-word.web.app
