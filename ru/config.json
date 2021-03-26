@@ -16,7 +16,7 @@
         "children": [
           {
             "id": 1001,
-            "name": "Подготовка",
+            "name": "I. Подготовка",
             "places": "Перед изучением",
             "image": "lighthouse.jpg",
             "finished": false
