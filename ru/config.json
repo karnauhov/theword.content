@@ -2,8 +2,8 @@
   "ui": {
     "header": "Откровение",
     "subheader": "И сказал мне: не запечатывай слов пророчества книги сей; ибо время близко. (Откр 22:10)",
-    "tableOfContentsName": "Содержание главы (нажмите чтобы раскрыть)",
-    "sourceName": "Дополнительно используемая литература (нажмите чтобы раскрыть)",
+    "tableOfContentsName": "Содержание главы: <i class='mdi mdi-hand-pointing-up mdi-flip-h mdi-18px blue-grey--text'></i>",
+    "sourceName": "Рекомендуемая литература: <i class='mdi mdi-hand-pointing-up mdi-flip-h mdi-18px blue-grey--text'></i>",
     "menu": [
       {
         "id": 0,
